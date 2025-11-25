@@ -1,4 +1,3 @@
-
 # Codeup
 
 This is my daily coding repository to maintain my GitHub streak and practice code regularly.
